@@ -1,6 +1,6 @@
 # Terms (Terms of Use)
 
-*Last updated: April 17, 2026*
+*Last updated: May 3, 2026*
 
 ---
 
@@ -117,7 +117,7 @@ Continued use means acceptance of updates.
 
 For questions or concerns:
 
-contact@wejkey.org or [discord.wejkey.org](https://discord.wejkey.org)
+contact@wejkey.org
 
 Response times are not guaranteed.
 
