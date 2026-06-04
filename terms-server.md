@@ -1,4 +1,4 @@
-# Server Terms of Use
+# Server Terms
 
 *Last updated: June 4, 2026*
 
