@@ -1,6 +1,6 @@
-# Server Terms
+# Server Terms (originaly for Primly Server - now on Wejkey HQ)
 
-*Last updated: June 4, 2026*
+*Last updated: June , 2026*
 
 ---
 
