@@ -1,6 +1,6 @@
 # Terms (Terms of Use)
 
-*Last updated: May 3, 2026*
+*Last updated: June 14, 2026*
 
 ---
 
@@ -110,15 +110,3 @@ The Developer may:
 - Restrict or terminate access if Terms are violated
 
 Continued use means acceptance of updates.
-
----
-
-## §10 Contact
-
-For questions or concerns:
-
-contact@wejkey.org
-
-Response times are not guaranteed.
-
----
