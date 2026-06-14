@@ -1,6 +1,6 @@
 # Server Terms (originaly for Primly Server - now on Wejkey HQ)
 
-*Last updated: June , 2026*
+*Last updated: June 14, 2026*
 
 ---
 
@@ -50,15 +50,3 @@ Server Staff may:
 ## §5 Changes to These Terms
 
 These Terms may and will be updated at any time.
-
----
-
-## §6 Contact
-
-For questions or concerns:
-
-contact@wejkey.org or server staff
-
-Response times are not guaranteed.
-
----
